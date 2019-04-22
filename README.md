@@ -45,4 +45,4 @@ These ideas can be classified and or grouped under the following terms:
 
 * Game maker - Anyone involved with the development and or promotion of a game.
 * Virtual product - A item that exist only within the confines of a virtual reality, for example a video game.
-* Virtual item(s) - A term interchangeable with [Virtual product](#virtual-product)
+* Virtual item(s) - A term interchangeable with [Virtual product](virtual-product.md)
